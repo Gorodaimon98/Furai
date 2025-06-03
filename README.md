@@ -12,7 +12,7 @@ FURAI é um projeto de meme token com propósito simples: diversão, comunidade 
 Criar um ecossistema de valor e engajamento ao redor da moeda FURAI, incentivando o uso, a troca e a divulgação espontânea.
 
 ## Logo
-![FURAI Logo](furai_logo.png)
+![FURAI logo](furai_logo.jpg)
 
 ---
 
