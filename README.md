@@ -1,19 +1,26 @@
-# FURAI - O Meme de Ouro
+# FURAI – The golden meme
 
-FURAI é um projeto de meme token com propósito simples: diversão, comunidade e descentralização.
+FURAI is the golden meme with an extremely low supply. For a meme. Created so everyone profits, not just the developers.
 
-## Fornecimento Total
-**120.000.000 FURAI**, distribuídos da seguinte forma:
-- 20.000.000 para o criador
-- 60.000.000 para liquidez (DEX)
-- 40.000.000 reservados para a comunidade
+## Total Supply
 
-## Objetivo
-Criar um ecossistema de valor e engajamento ao redor da moeda FURAI, incentivando o uso, a troca e a divulgação espontânea.
+*120 million FURAI*, distributed as follows:
+
+- 20% reserved for the creator  
+- 20% reserved for future partnerships and listings  
+- 60% allocated to DEX liquidity  
+
+🔒 **Note:**  
+Each percentage is held in a separate public wallet.  
+The creator’s wallet will be sold in 3 separate stages.  
+The partnerships and listings wallet will be locked for 1 year.  
+The DEX liquidity wallet will be split across multiple decentralized exchanges.
+
+
+## Objective
+
+To create an ecosystem of value and engagement around the FURAI token, encouraging usage, trading, and organic promotion.
 
 ## Logo
+
 ![FURAI logo](furai_logo.jpg)
-
----
-
-**Atenção**: Este projeto é experimental e voltado para fins educacionais e de entretenimento.
